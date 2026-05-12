@@ -108,7 +108,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/franciscopereyra13/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  LinkedIn-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  franciscopereyra13-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -116,7 +116,7 @@
 
 <li>
 <a href="https://x.com/FranciscoWolfg1" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  X (Twitter)-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/twitter:  FranciscoWolfg1-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -124,7 +124,7 @@
 
 <li>
 <a href="mailto:francisco.pereyra.dmc3@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  francisco.pereyra.dmc3@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
